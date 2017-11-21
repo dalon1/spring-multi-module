@@ -1,0 +1,5 @@
+com/secondmodule/app/facade/interfaces/ISecondFacade.class
+com/secondmodule/app/dto/SecondDto.class
+com/secondmodule/app/facade/SecondFacade.class
+com/secondmodule/app/App.class
+com/secondmodule/app/controller/SecondController.class

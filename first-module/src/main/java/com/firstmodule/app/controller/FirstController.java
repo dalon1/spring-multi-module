@@ -1,15 +1,23 @@
 package com.firstmodule.app.controller;
 
+import javax.inject.Inject;
+
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.firstmodule.app.dto.FirstDto;
+import com.firstmodule.app.facade.interfaces.IFirstFacade;
 
 @RestController
+@RequestMapping(value = "firstController")
 public class FirstController {
-	@RequestMapping(value = "firstController", method = RequestMethod.GET)
+	
+	@Inject
+	IFirstFacade firstFacade;
+	
+	@RequestMapping(method = RequestMethod.GET)
 	public FirstDto getFirst() {
-		return null;
+		return this.firstFacade.get();
 	}
 }

@@ -1,1 +1,5 @@
+com/thirdmodule/app/facade/ThirdFacade.class
+com/thirdmodule/app/facade/interfaces/IThirdFacade.class
 com/thirdmodule/app/App.class
+com/thirdmodule/app/controller/ThirdController.class
+com/thirdmodule/app/dto/ThirdDto.class

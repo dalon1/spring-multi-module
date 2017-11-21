@@ -1,1 +1,5 @@
+/Users/AloniD/alon_spring_projects/multi_module_ws/root-module/third-module/src/main/java/com/thirdmodule/app/facade/interfaces/IThirdFacade.java
 /Users/AloniD/alon_spring_projects/multi_module_ws/root-module/third-module/src/main/java/com/thirdmodule/app/App.java
+/Users/AloniD/alon_spring_projects/multi_module_ws/root-module/third-module/src/main/java/com/thirdmodule/app/controller/ThirdController.java
+/Users/AloniD/alon_spring_projects/multi_module_ws/root-module/third-module/src/main/java/com/thirdmodule/app/facade/ThirdFacade.java
+/Users/AloniD/alon_spring_projects/multi_module_ws/root-module/third-module/src/main/java/com/thirdmodule/app/dto/ThirdDto.java

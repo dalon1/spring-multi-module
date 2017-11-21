@@ -1,0 +1,4 @@
+com/firstmodule/app/controller/FirstController.class
+com/firstmodule/app/App.class
+com/firstmodule/app/dto/FirstDto.class
+com/firstmodule/app/facade/FirstFacade.class
